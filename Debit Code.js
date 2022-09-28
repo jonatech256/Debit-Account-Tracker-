@@ -1,0 +1,13 @@
+let dAccount = 0;
+dAccount += 101;
+console.log("Deposit of 101$" );
+console.log("New balance " + dAccount + "$");
+dAccount -= 13;
+console.log("Purshed phone with 13$");
+console.log("New balance " + dAccount + "$");
+dAccount -= 65;
+console.log("Purshed TV with 65$");
+console.log("New balance " + dAccount + "$");
+dAccount += 700;
+console.log("Deposit of 700$" );
+console.log("New balance " + dAccount + "$");
